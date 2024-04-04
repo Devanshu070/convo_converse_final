@@ -14,8 +14,8 @@ Welcome to ConvoVerse, the modern messaging app project! This Flutter app demons
 
 - **Flutter**: Cross-platform framework for building mobile apps.
 - **Firebase**: Google's mobile platform for developing high-quality apps.
-  - **Firebase Cloud Firestore**: Flexible, scalable NoSQL database for mobile and web apps.
-  - **Firebase Authentication**: Backend service for user authentication.
+    - **Firebase Cloud Firestore**: Flexible, scalable NoSQL database for mobile and web apps.
+    - **Firebase Authentication**: Backend service for user authentication.
 - **Dart**: Programming language used for Flutter app development.
 - **Hero Widget**: Flutter widget for creating custom animations between screens.
 - **Animation Controller**: Flutter class for controlling animations.
